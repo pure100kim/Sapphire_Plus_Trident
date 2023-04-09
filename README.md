@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=bZ4Hks0IrJY&ab_channel=MrGoodman
 
 
 
+![Sapphire Plus Trident](https://github.com/pure100kim/Sapphire_Plus_Trident/blob/main/Photo/SP_Side_Cooling_FAN.jpg)
