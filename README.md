@@ -36,6 +36,7 @@ So I decide uploading and sharing my github.
 If there is a problem with the file, we will delete it.
 
 
+Below link is my blog
 https://blog.naver.com/pure100kim/222989188373
 
 
