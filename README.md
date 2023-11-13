@@ -23,7 +23,10 @@ https://www.youtube.com/watch?v=P2LwtXu0FZ0&ab_channel=MrGoodman
 ![Sapphire Plus Trident](https://github.com/pure100kim/Sapphire_Plus_Trident/blob/main/Photo/SP_Side_Cooling_FAN.jpg)
 
 
-2023.11.05 
+
+
+
+2023.11.05 (05 Nov.2023)
 
 Aready Many users in Korea verified Sapphire plus trident.
 
@@ -42,5 +45,10 @@ https://blog.naver.com/pure100kim/222989188373
 
 Thank you :D
 
+
+
+2023.11.11 (11 Nov. 2023)
+
+12035 Side FAN Airout parts improved and files uploading.
 
 
